@@ -1,5 +1,5 @@
 import React from 'react';
-import Avatar from '../assets/logo512.png'; // Update the image path with your avatar
+import Avatar from '../assets/logo512.png'; //  avatar
 
 function About() {
   return (
